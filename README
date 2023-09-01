@@ -1,0 +1,3 @@
+awv is project containing awavei code. This application is devoted to a code example 
+of finite difference acoiustic wave propagation that can be used to test access to 
+NVIDIA GPU via CUDA and/or Vulkan.
